@@ -1,2 +1,2 @@
 # ngenposh
-Random PowerShell Engineering Scripts
+Random PowerShell DevOps Engineering Scripts
